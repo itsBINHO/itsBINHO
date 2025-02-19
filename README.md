@@ -92,6 +92,9 @@ Me chamo Robson Rocha Silva, tenho 21 anos e sou natural da Bahia. Atualmente, s
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsBinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  <br/>
+  <br/>
+
 ### 📊 Estatísticas
 
 <p>
