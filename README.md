@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web`**
 
-Me chamo Robson Rocha Silva, tenho 21 anos. Atualmente, sou formado no curso Superior de Análise e Desenvolvimento de Sistemas na Unopar. Sou fascinado pela tecnologia e sua ampla gama de possibilidades.
+Me chamo Robson Rocha Silva, tenho 22 anos. Atualmente, sou formado no curso Superior de Análise e Desenvolvimento de Sistemas na Unopar. Sou fascinado pela tecnologia e sua ampla gama de possibilidades.
 
 
 
